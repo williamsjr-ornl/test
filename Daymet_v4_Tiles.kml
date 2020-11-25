@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
  xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
-<Document id="NA_tiles_V3_Continental_PR_HI_Bermuda4KMZ">
-  <name>NA_tiles_V3_Continental_PR_HI_Bermuda4KMZ</name>
+<Document id="root_doc">
+  <name>Daymet_v4_Tiles</name>
   <Snippet></Snippet>
   <Folder id="FeatureLayer0">
-    <name>NA_tiles_V3_Continental_PR_HI_Bermuda4KMZ</name>
+    <name>Daymet_v4_tiles</name>
     <Snippet></Snippet>
     <Placemark id="ID_00001">
       <name>9402</name>
@@ -820,159 +819,6 @@
         <Polygon>
           <extrude>0</extrude>          <altitudeMode>absolute</altitudeMode>
           <outerBoundaryIs><LinearRing><coordinates> -156,18,0 -154,18,0 -154,20,0 -156,20,0 -156,18,0</coordinates></LinearRing></outerBoundaryIs>
-        </Polygon>
-      </MultiGeometry>
-    </Placemark>
-    <Placemark id="ID_00017">
-      <name>9753</name>
-      <Snippet></Snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>9753</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>TileID</td>
-<td>9753</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>Longitude (Min)</td>
-<td>-116</td>
-</tr>
-<tr>
-<td>Longitude (Max)</td>
-<td>-114</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>Latitude (Min)</td>
-<td>18</td>
-</tr>
-<tr>
-<td>Latitude (Max)</td>
-<td>20</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body>
-</html>
-]]></description>
-      <styleUrl>#PolyStyle01</styleUrl>
-      <MultiGeometry>
-        <Polygon>
-          <extrude>0</extrude>          <altitudeMode>absolute</altitudeMode>
-          <outerBoundaryIs><LinearRing><coordinates> -116,18,0 -114,18,0 -114,20,0 -116,20,0 -116,18,0</coordinates></LinearRing></outerBoundaryIs>
-        </Polygon>
-      </MultiGeometry>
-    </Placemark>
-    <Placemark id="ID_00018">
-      <name>9754</name>
-      <Snippet></Snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>9754</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>TileID</td>
-<td>9754</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>Longitude (Min)</td>
-<td>-114</td>
-</tr>
-<tr>
-<td>Longitude (Max)</td>
-<td>-112</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>Latitude (Min)</td>
-<td>18</td>
-</tr>
-<tr>
-<td>Latitude (Max)</td>
-<td>20</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body>
-</html>
-]]></description>
-      <styleUrl>#PolyStyle01</styleUrl>
-      <MultiGeometry>
-        <Polygon>
-          <extrude>0</extrude>          <altitudeMode>absolute</altitudeMode>
-          <outerBoundaryIs><LinearRing><coordinates> -114,18,0 -112,18,0 -112,20,0 -114,20,0 -114,18,0</coordinates></LinearRing></outerBoundaryIs>
-        </Polygon>
-      </MultiGeometry>
-    </Placemark>
-    <Placemark id="ID_00019">
-      <name>9755</name>
-      <Snippet></Snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>9755</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>TileID</td>
-<td>9755</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>Longitude (Min)</td>
-<td>-112</td>
-</tr>
-<tr>
-<td>Longitude (Max)</td>
-<td>-110</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>Latitude (Min)</td>
-<td>18</td>
-</tr>
-<tr>
-<td>Latitude (Max)</td>
-<td>20</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body>
-</html>
-]]></description>
-      <styleUrl>#PolyStyle01</styleUrl>
-      <MultiGeometry>
-        <Polygon>
-          <extrude>0</extrude>          <altitudeMode>absolute</altitudeMode>
-          <outerBoundaryIs><LinearRing><coordinates> -112,18,0 -110,18,0 -110,20,0 -112,20,0 -112,18,0</coordinates></LinearRing></outerBoundaryIs>
         </Polygon>
       </MultiGeometry>
     </Placemark>
@@ -4087,57 +3933,6 @@
         </Polygon>
       </MultiGeometry>
     </Placemark>
-    <Placemark id="ID_00081">
-      <name>10651</name>
-      <Snippet></Snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>10651</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>TileID</td>
-<td>10651</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>Longitude (Min)</td>
-<td>-120</td>
-</tr>
-<tr>
-<td>Longitude (Max)</td>
-<td>-118</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>Latitude (Min)</td>
-<td>28</td>
-</tr>
-<tr>
-<td>Latitude (Max)</td>
-<td>30</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body>
-</html>
-]]></description>
-      <styleUrl>#PolyStyle01</styleUrl>
-      <MultiGeometry>
-        <Polygon>
-          <extrude>0</extrude>          <altitudeMode>absolute</altitudeMode>
-          <outerBoundaryIs><LinearRing><coordinates> -120,28,0 -118,28,0 -118,30,0 -120,30,0 -120,28,0</coordinates></LinearRing></outerBoundaryIs>
-        </Polygon>
-      </MultiGeometry>
-    </Placemark>
     <Placemark id="ID_00082">
       <name>10653</name>
       <Snippet></Snippet>
@@ -7144,57 +6939,6 @@
         <Polygon>
           <extrude>0</extrude>          <altitudeMode>absolute</altitudeMode>
           <outerBoundaryIs><LinearRing><coordinates> -78,32,0 -76,32,0 -76,34,0 -78,34,0 -78,32,0</coordinates></LinearRing></outerBoundaryIs>
-        </Polygon>
-      </MultiGeometry>
-    </Placemark>
-    <Placemark id="ID_00141">
-      <name>11038</name>
-      <Snippet></Snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>11038</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>TileID</td>
-<td>11038</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>Longitude (Min)</td>
-<td>-66</td>
-</tr>
-<tr>
-<td>Longitude (Max)</td>
-<td>-64</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>Latitude (Min)</td>
-<td>32</td>
-</tr>
-<tr>
-<td>Latitude (Max)</td>
-<td>34</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body>
-</html>
-]]></description>
-      <styleUrl>#PolyStyle01</styleUrl>
-      <MultiGeometry>
-        <Polygon>
-          <extrude>0</extrude>          <altitudeMode>absolute</altitudeMode>
-          <outerBoundaryIs><LinearRing><coordinates> -66,32,0 -64,32,0 -64,34,0 -66,34,0 -66,32,0</coordinates></LinearRing></outerBoundaryIs>
         </Polygon>
       </MultiGeometry>
     </Placemark>
